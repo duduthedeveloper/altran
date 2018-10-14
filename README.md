@@ -27,4 +27,5 @@ ARCHITECTURE EXPLANATION
 the possible server errors and besides that check the query parameters possible to input as filter to the
 external call
 7. the v=1 represents the API version
+8. I decided not to add pagination, such as PageSupport or anything else because it will be controlled by start and rows on the external service. Just to be clear that I thought it not being useful, just would be overengineering
 
