@@ -1,0 +1,31 @@
+=== */ajuntament_client_error*
+
+Returns the current configuration
+
+==== *4xx-CLIENT-ERROR*
+
+****
+*Curl command*
+include::{snippets}/ajuntament_client_error/curl-request.adoc[]
+****
+
+****
+*Http request:*
+include::{snippets}/ajuntament_client_error/http-request.adoc[]
+****
+
+****
+*Http response:*
+include::{snippets}/ajuntament_client_error/http-response.adoc[]
+****
+
+
+****
+*Request body:*
+include::{snippets}/ajuntament_client_error/request-body.adoc[]
+****
+
+****
+*Response body:*
+include::{snippets}/ajuntament_client_error/response-body.adoc[]
+****

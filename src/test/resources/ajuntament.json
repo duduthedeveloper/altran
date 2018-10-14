@@ -1,0 +1,2039 @@
+{  
+   "help":"http://opendata-ajuntament.barcelona.cat/data/api/3/action/help_show?name=package_search",
+   "success":true,
+   "result":{  
+      "count":464,
+      "sort":"fecha_publicacion desc",
+      "facets":{  
+
+      },
+      "results":[  
+         {  
+            "notes_translated":{  
+               "ca":"Dades i informaci\u00f3 referent als menjadors socials de la ciutat de Barcelona.",
+               "en":"Data and information redarding the social dining rooms of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a los comedores sociales de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"ServeisSocials_MenjadorsSocials",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"50a46671-0407-469f-8641-2166af371c79",
+            "title_translated":{  
+               "ca":"Menjadors Socials a la ciutat de Barcelona",
+               "en":"Social dining rooms of the city of Barcelona.",
+               "es":"Comedores Sociales en la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-09T10:56:45.327270",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"6d593275-d059-4261-9004-e6df8677e3bf",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"50a46671-0407-469f-8641-2166af371c79",
+                  "datastore_active":true,
+                  "id":"33e11c0d-0942-4032-9c7c-46dc8f2c4c50",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"2",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"4",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J006_MenjadorsSocials",
+                  "created":"2018-09-07T11:54:26.038853",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J006_MenjadorsSocials.csv",
+                  "downloads_absolute":"5",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:40.664669', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-08T02:07:01.667453', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"5bec17d5-0824-4773-bb89-7efc990de32b",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Menjador",
+                  "id":"fa3c123c-0245-486c-8aa2-d7365827ba69",
+                  "name":"Menjador"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis socials",
+                  "id":"4eec3f47-926b-4984-ad9d-3a38fb92470f",
+                  "name":"Serveis socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-menjadorssocials",
+            "url":null,
+            "notes":"Data and information redarding the social dining rooms of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Menjador,Social,Serveis socials",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Social dining rooms of the city of Barcelona.",
+            "revision_id":"8ed25f70-717e-4fc2-83c9-f76f10973121",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent a les resid\u00e8ncies per a la gent gran de la ciutat de Barcelona.",
+               "en":"Data and information regarding eldelry care homes of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a las residenciaspara las personas mayores de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials residenciesgentgran",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"77fefa12-6611-4c39-8e24-3b6cbdc7f567",
+            "title_translated":{  
+               "ca":"Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona",
+               "en":"Elderly care homes in the city of Barcelona",
+               "es":"Residencias para las personas mayores de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-11T07:23:30.617084",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"77fefa12-6611-4c39-8e24-3b6cbdc7f567",
+                  "datastore_active":true,
+                  "id":"1fdd6f57-0f41-4b27-b8f0-57e6d04f229a",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"3",
+                  "api_access_number_absolute":"4",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"5",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J004_ResidenciesGentGran.csv",
+                  "created":"2018-09-10T10:57:43.772271",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J004_ResidenciesGentGran.csv",
+                  "downloads_absolute":"7",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:42.186306', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:19.549588', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"5c65b9c5-755d-4787-ba32-958f68225ffb",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Resid\u00e8ncies gent gran",
+                  "id":"6f60384a-2d65-45f7-96f2-1e25d0d74f73",
+                  "name":"Resid\u00e8ncies gent gran"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-residenciesgentgran",
+            "url":null,
+            "notes":"Data and information regarding eldelry care homes of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Resid\u00e8ncies gent gran",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Elderly care homes in the city of Barcelona",
+            "revision_id":"6350301d-4ca5-4245-9df7-ebe0fee55c4f",
+            "date_deactivation_informed":"No",
+            "extras":[  
+               {  
+                  "key":"01.CODI_EQUIPAMENT",
+                  "value":"Codi d'identificaci\u00f3 de l'equipament"
+               },
+               {  
+                  "key":"02.EQUIPAMENT",
+                  "value":"Nom de l'equipament"
+               },
+               {  
+                  "key":"03.SECCIO",
+                  "value":"Classificaci\u00f3 jer\u00e0rquica del lloc depenent del tipus d'equipament"
+               },
+               {  
+                  "key":"04.TIPUS_VIA",
+                  "value":"Tipus de la via de l'equipament"
+               },
+               {  
+                  "key":"05.NOM_CARRER",
+                  "value":"Nom de la via de l'equipament"
+               },
+               {  
+                  "key":"06.NUM_CARRER_1",
+                  "value":"N\u00famero inicial de la ubicaci\u00f3 de l'equipament"
+               },
+               {  
+                  "key":"07.NUM_CARRER_2",
+                  "value":"N\u00famero final de la ubicaci\u00f3 de l'equipament"
+               },
+               {  
+                  "key":"08.CODI_BARRI",
+                  "value":"Codi del barri de l'equipament"
+               },
+               {  
+                  "key":"09.NUM_BARRI",
+                  "value":"Nom del barri de l'equipament"
+               },
+               {  
+                  "key":"10.CODI_DISTRICTE",
+                  "value":"Codi del districte de l'equipament"
+               },
+               {  
+                  "key":"11.NOM_DISTRICTE",
+                  "value":"Nom del districte de l'equipament"
+               },
+               {  
+                  "key":"12.CODI_POSTAL",
+                  "value":"Codi postal de la ubicaci\u00f3 de l'equipament"
+               },
+               {  
+                  "key":"13.CODI_POBLACIO",
+                  "value":"Codi de la poblaci\u00f3 de l'equipament"
+               },
+               {  
+                  "key":"14.POBLACIO",
+                  "value":"Poblaci\u00f3 de l'equipament"
+               },
+               {  
+                  "key":"15.LATITUD",
+                  "value":"Coordenada geogr\u00e0fica de latitud"
+               },
+               {  
+                  "key":"16.LONGITUD",
+                  "value":"Coordenada geogr\u00e0fica de longitud"
+               },
+               {  
+                  "key":"17.X_ETRS89",
+                  "value":"Coordenada X en format ETRS89"
+               },
+               {  
+                  "key":"18.Y_ETRS89",
+                  "value":"Coordenada Y en format ETRS89"
+               },
+               {  
+                  "key":"19.X_ED50",
+                  "value":"Coordenada X en format ED50"
+               },
+               {  
+                  "key":"20.Y_ED50",
+                  "value":"Coordenada Y en format ED50"
+               },
+               {  
+                  "key":"21.TELEFON_NUM",
+                  "value":"N\u00famero de tel\u00e8fon de l'equipament"
+               },
+               {  
+                  "key":"22.TELEFON_TIPUS",
+                  "value":"Tipus de n\u00famero de tel\u00e8fon de l'equipament"
+               },
+               {  
+                  "key":"23.TELEFON_INFO_COM",
+                  "value":"Informaci\u00f3 complement\u00e0ria del tel\u00e8fon"
+               },
+               {  
+                  "key":"24.HORARI_PERIODE_INICI",
+                  "value":"Data d'inici del per\u00edode d'activitat"
+               },
+               {  
+                  "key":"25.HORARI_PERIODE_FI",
+                  "value":"Data de fi del per\u00edode d'activitat"
+               },
+               {  
+                  "key":"26.HORARI_DIES",
+                  "value":"Descripci\u00f3 codificada de la disponibilitat di\u00e0ria de l'equipament. Es representa cada dia de la setmana amb un d\u00edgit (1 = tancat, 0 = obert)"
+               },
+               {  
+                  "key":"27.HORARI_HORES_INICI",
+                  "value":"Horari d'inici de l'activitat de l'equipament"
+               },
+               {  
+                  "key":"28.HORARI_HORES_FI",
+                  "value":"Horari de tancament de l'activitat de l'equipament"
+               },
+               {  
+                  "key":"29.HORARI_OBSERVACIONS",
+                  "value":"Observacions sobre la informaci\u00f3 dels horaris"
+               }
+            ]
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent als centres de dia per a la gent gran de la ciutat de Barcelona.",
+               "en":"Data and information regarding day care centres for the elderly of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a los centros de d\u00eda para las personas mayores de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials centresdiagentgran",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":4,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"d789554c-f4b3-4acd-9d40-8709c2552560",
+            "title_translated":{  
+               "ca":"Centres de dia per a la gent gran de la ciutat de Barcelona",
+               "en":"Day care centres for the elderly of the city of Barcelona",
+               "es":"Centros de d\u00eda para las personas mayores de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-08T11:00:14.090882",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"d789554c-f4b3-4acd-9d40-8709c2552560",
+                  "datastore_active":true,
+                  "id":"ddaecad1-71b0-4fe4-bbf6-09d09742caf5",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"1",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"1",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J003_CentresDiaGentGran.csv",
+                  "created":"2018-09-10T10:35:10.013312",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J003_CentresDiaGentGran.csv",
+                  "downloads_absolute":"1",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:39.150653', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:16.599402', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"e874960a-1bd4-4149-ad09-6343e4325c2e",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Centres dia",
+                  "id":"db65713b-666b-450b-864c-55907256d164",
+                  "name":"Centres dia"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Gent Gran",
+                  "id":"e7cdc089-e63c-49bc-a282-1f99b3464462",
+                  "name":"Gent Gran"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-centresdiagentgran",
+            "url":null,
+            "notes":"Data and information regarding day care centres for the elderly of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Gent Gran,Centres dia",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Day care centres for the elderly of the city of Barcelona",
+            "revision_id":"3c89cba8-684e-4084-b89b-29968409f69d",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent als centres de Serveis Socials de la ciutat de Barcelona.",
+               "en":"Data and information regarding the social services centres of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a los centros de Servicios Sociales de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials centresserveissocials",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"54e627e4-75ff-4420-bb7a-20826246753b",
+            "title_translated":{  
+               "ca":"Centres de Serveis Socials de la ciutat de Barcelona",
+               "en":"Social services centres of the city of Barcelona",
+               "es":"Centros de Servicios Sociales de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-08T10:59:33.894653",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"54e627e4-75ff-4420-bb7a-20826246753b",
+                  "datastore_active":true,
+                  "id":"dac689bb-a1de-4014-9aeb-d61fef01c6fb",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"1",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"0",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J001_CentresServeisSocials.csv",
+                  "created":"2018-09-10T10:26:19.769001",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J001_CentresServeisSocials.csv",
+                  "downloads_absolute":"0",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:39.504522', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:16.939847', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"560ebc47-4ecd-4dbd-9ed8-5dc42c1355f1",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Centres Serveis Socials",
+                  "id":"3691b8b6-a552-46e5-b7c6-553f9fb406c2",
+                  "name":"Centres Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-centresserveissocials",
+            "url":null,
+            "notes":"Data and information regarding the social services centres of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Centres Serveis Socials",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Social services centres of the city of Barcelona",
+            "revision_id":"b9d4ce9c-737f-4cbb-a6ce-2853541e1094",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent a les oficines de Benestar Social de la ciutat de Barcelona.",
+               "en":"Data and information regarding the social Welfare Offices of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a las oficinas de Bienestar Social de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials-oficinesbenestarsocial",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"5b9c4d4b-55e1-403b-bbe1-7609dcb61642",
+            "title_translated":{  
+               "ca":"Oficines de Benestar Social de la ciutat de Barcelona",
+               "en":"Social Welfare Offices in the city of Barcelona",
+               "es":"Oficinas de Bienestar Social de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-08T10:59:26.457413",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"5b9c4d4b-55e1-403b-bbe1-7609dcb61642",
+                  "datastore_active":true,
+                  "id":"3e401735-7a11-4b0c-961a-5e505ac7aeed",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"1",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"0",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J002_OfBenestarSocial.csv",
+                  "created":"2018-09-10T10:31:47.627441",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J002_OfBenestarSocial.csv",
+                  "downloads_absolute":"0",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:41.056140', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:18.454566', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"f185e10b-adc0-4df3-b020-540591c2c91b",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Oficines Benestar Social",
+                  "id":"59250e3c-0f42-42ca-85f4-eb16b972c9b0",
+                  "name":"Oficines Benestar Social"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-oficinesbenestarsocial",
+            "url":null,
+            "notes":"Data and information regarding the social Welfare Offices of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Oficines Benestar Social,Serveis Socials",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Social Welfare Offices in the city of Barcelona",
+            "revision_id":"84b8c259-4dc8-4a13-bdec-95574e50116f",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent als habitatges tutelats de la ciutat de Barcelona.",
+               "en":"Data and information regarding protected housing of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a las viviendas tuteladas de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials habitatgestutelats",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"adc9ed0c-0581-498b-a51c-24837868ac7a",
+            "title_translated":{  
+               "ca":"Habitatges tutelats de la ciutat de Barcelona",
+               "en":"Protected housing of the city of Barcelona",
+               "es":"Viviendas tuteladas de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-08T10:59:42.657481",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"adc9ed0c-0581-498b-a51c-24837868ac7a",
+                  "datastore_active":true,
+                  "id":"581f2100-dd1f-486d-bc97-d2cd89c4c9a7",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"1",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"1",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J005_HabitatgesTutelats.csv",
+                  "created":"2018-09-10T11:02:40.864482",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J005_HabitatgesTutelats.csv",
+                  "downloads_absolute":"1",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:40.277914', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:17.722521', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"ab8c5d4b-5bbf-48b6-8e5a-054fe12fa5ac",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Habitatges tutelats",
+                  "id":"4482c8f8-3ebe-451b-805f-bc809a89eee9",
+                  "name":"Habitatges tutelats"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-habitatgestutelats",
+            "url":null,
+            "notes":"Data and information regarding protected housing of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Habitatges tutelats",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Protected housing of the city of Barcelona",
+            "revision_id":"26deefc6-d754-4cc2-8885-e975d1adfa17",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent als punts d'assessorament energ\u00e8tic de la ciutat de Barcelona.",
+               "en":"Data and information regarding the energy advisory points for the women of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a los puntos de asesoramiento energ\u00e9tico de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials puntsassessoramentenergetic",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"8164caa4-e3d9-4238-8a88-0f467db4ce2a",
+            "title_translated":{  
+               "ca":"Punts d'assessorament energ\u00e8tic de la ciutat de Barcelona",
+               "en":"Energy advisory points of the city of Barcelona",
+               "es":"Puntos de asesoramiento energ\u00e9tico de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-08T10:58:55.730670",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"8164caa4-e3d9-4238-8a88-0f467db4ce2a",
+                  "datastore_active":true,
+                  "id":"0e964453-6caf-4d4f-a2c7-f37114b21c98",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"2",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"1",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J009_PuntsAssessoramentEnergetic.csv",
+                  "created":"2018-09-10T12:01:32.869329",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J009_PuntsAssesoramentEnergetic.csv",
+                  "downloads_absolute":"2",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:41.429824', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:18.834802', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"a1af6172-e4b1-456e-996e-f45c8c28c9da",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Punts assessorament energ\u00e8tic",
+                  "id":"d285a2dc-b64f-45e1-8643-a1179c0a5b32",
+                  "name":"Punts assessorament energ\u00e8tic"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-puntsassessoramentenergetic",
+            "url":null,
+            "notes":"Data and information regarding the energy advisory points for the women of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Punts assessorament energ\u00e8tic",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Energy advisory points of the city of Barcelona",
+            "revision_id":"6c514642-1831-4382-8e42-1b9af322b0fc",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent als equips d'atenci\u00f3 a la infantesa i l'adolesc\u00e8ncia de la ciutat de Barcelona.",
+               "en":"Data and information regarding childhood and adolescent care teams of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a los equipos de atenci\u00f3n a la infancia y la adolescencia de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials equipsatencioinfanciaadolescencia",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":5,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"c1f07915-2d81-46fd-b394-dcb5db5119a2",
+            "title_translated":{  
+               "ca":"Equips d'atenci\u00f3 a la infantesa i l'adolesc\u00e8ncia de la ciutat de Barcelona",
+               "en":"Childhood and adolescent care teams in the city of Barcelona",
+               "es":"Equipos de atenci\u00f3n a la infancia y la adolescencia de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-09T10:57:58.774725",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"c1f07915-2d81-46fd-b394-dcb5db5119a2",
+                  "datastore_active":true,
+                  "id":"30cc6841-934d-48bb-aa2b-a283c11569c2",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"2",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"0",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J008_EquipsAtencioInfanciaYAdolescencia.csv",
+                  "created":"2018-09-10T11:46:07.714487",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J008_EquipsAtencioInfanciaYAdolescencia.csv",
+                  "downloads_absolute":"0",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:39.884858', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:17.333412', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"789dd4a0-89ab-45c1-a60f-8c6c258c9214",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Adolesc\u00e8ncia",
+                  "id":"f9965a0c-9046-4071-9ef4-2bc26b0dd31c",
+                  "name":"Adolesc\u00e8ncia"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Equips atenci\u00f3",
+                  "id":"f045ba6d-431f-4d67-bf94-6f901762157b",
+                  "name":"Equips atenci\u00f3"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Infantesa",
+                  "id":"bd2e0e3e-f75a-4785-9cd4-b42b74f9fe85",
+                  "name":"Infantesa"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-equipsatencioinfanciaadolescencia",
+            "url":null,
+            "notes":"Data and information regarding childhood and adolescent care teams of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Infantesa,Adolesc\u00e8ncia,Equips atenci\u00f3",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Childhood and adolescent care teams in the city of Barcelona",
+            "revision_id":"12e9708b-b8a1-4679-8afe-0748d0115e4b",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Data i informaci\u00f3 referent als punts d'informaci\u00f3 i atenci\u00f3 a les dones de la ciutat de Barcelona.",
+               "en":"Data and information regarding the information and care points for the women of the city of Barcelona.",
+               "es":"Datos e informaci\u00f3n referente a los puntos de informaci\u00f3n y atenci\u00f3n a las mujeres de la ciudad de Barcelona."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"serveissocials puntsinformacioiatenciodones",
+            "url_tornada":{  
+               "ca":"http://w110.bcn.cat/portal/site/ServeisSocials/",
+               "en":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES",
+               "es":"http://w110.bcn.cat/portal/site/ServeisSocials/indexa6be.html?lang=es_ES"
+            },
+            "dataset_fields_description":"Veure definici\u00f3 dels camps al dataset de __[Resid\u00e8ncies per a la gent gran de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/serveissocials-residenciesgentgran)__",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":5,
+            "api":"Yes",
+            "frequency":"MENSUAL",
+            "update_string":"ST_846 (Info execuci\u00f3 - Dia: 2 del mes / Hora: 22:00)",
+            "id":"c808aef7-3c0b-4a2f-a45f-f0b99ffc90b6",
+            "title_translated":{  
+               "ca":"Punts d'informaci\u00f3 i atenci\u00f3 a les dones de la ciutat de Barcelona",
+               "en":"Information and care points for the women in the city of Barcelona",
+               "es":"Puntos de informaci\u00f3n y atenci\u00f3n a las mujeres de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-08T11:00:05.582387",
+            "author":"Institut Municipal de Serveis Socials - IMSS",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Institut Municipal de Serveis Socials - IMSS",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"c808aef7-3c0b-4a2f-a45f-f0b99ffc90b6",
+                  "datastore_active":true,
+                  "id":"9078c2db-a1b3-4d9d-9e57-d52d906222de",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"1",
+                  "api_access_number_absolute":"1",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"0",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"little",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"J007_PuntsInformacioYAtencioDones.csv",
+                  "created":"2018-09-10T11:15:53.707198",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/J007_PuntsInformacioYAtencioDones.csv",
+                  "downloads_absolute":"0",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:07:41.806588', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-11T02:07:19.189812', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"2aca9940-e45e-4880-b1a9-c8ada1a63f55",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Dones",
+                  "id":"9cf988fb-c1dd-4748-a0d3-c00dda62efd1",
+                  "name":"Dones"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Punts atenci\u00f3",
+                  "id":"33685569-82fe-4fce-bb22-a23f8567ecc0",
+                  "name":"Punts atenci\u00f3"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Punts informaci\u00f3",
+                  "id":"7ce089e9-81e6-4d6f-8da4-f5a8c81eb969",
+                  "name":"Punts informaci\u00f3"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Serveis Socials",
+                  "id":"b79d45dc-f672-449f-861d-ebe72c42da02",
+                  "name":"Serveis Socials"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Social",
+                  "id":"ce752e01-23aa-4e07-b3ee-02f4b3e09942",
+                  "name":"Social"
+               }
+            ],
+            "fecha_publicacion":"2018-10-08",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"societat-i-benestar",
+               "display_name":"Societat i benestar",
+               "description":"Society and Welfare",
+               "parent":{  
+                  "code":"poblacio",
+                  "display_name":"Poblaci\u00f3",
+                  "description":"Population",
+                  "created":"2017-01-24T16:55:07.191598",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-poblacio",
+                  "description_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "name":"poblacio",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-poblacio",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Population",
+                  "revision_id":"e0b0ec67-528e-4be2-9425-f9d0bc3c0f71",
+                  "title_translated":{  
+                     "ca":"Poblaci\u00f3",
+                     "en":"Population",
+                     "es":"Poblaci\u00f3n"
+                  },
+                  "num_followers":0,
+                  "id":"3fa4d9dd-5e2c-46fa-ba43-298b6900bb5f",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:06.300630",
+               "package_count":19,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-families",
+               "tematica_nti":"sociedad-bienestar",
+               "description_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "name":"societat-i-benestar",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-families",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"poblacio"
+                  }
+               ],
+               "type":"organization",
+               "title":"Society and Welfare",
+               "revision_id":"614cab6b-639b-49e5-a52c-446758902756",
+               "title_translated":{  
+                  "ca":"Societat i benestar",
+                  "en":"Society and Welfare",
+                  "es":"Sociedad y bienestar"
+               },
+               "num_followers":0,
+               "id":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+               "approval_status":"approved"
+            },
+            "name":"serveissocials-puntsinformacioiatenciodones",
+            "url":null,
+            "notes":"Data and information regarding the information and care points for the women of the city of Barcelona.",
+            "owner_org":"9d5ac838-6f5e-4e74-8cec-6714ef289887",
+            "tag":"Social,Serveis Socials,Punts informaci\u00f3,Dones,Punts atenci\u00f3",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Information and care points for the women in the city of Barcelona",
+            "revision_id":"8e93745a-5c64-401f-831f-896abe2cf054",
+            "date_deactivation_informed":"No"
+         },
+         {  
+            "notes_translated":{  
+               "ca":"Inventari dels elements de regulaci\u00f3 semaf\u00f2rica de la xarxa d'infraestructures de la ciutat de Barcelona. Els elements sense informaci\u00f3 de barri i districte corresponen a ubicacions lim\u00edtrofes de la ciutat.",
+               "en":"Inventory of the traffic light regulation elements in the infrastructure network of the city of Barcelona. The elements without neighbourhood and district information belong to bordering ubications of the city.",
+               "es":"Inventario de los elementos de la regulaci\u00f3n semaf\u00f3rica de la red de infraestructuras de la ciudad de Barcelona. Los elementos sin informaci\u00f3n de barrio y districto corresponden a ubicaciones lim\u00edtrofes de la ciudad."
+            },
+            "geolocation":"Yes_with_map_view",
+            "code":"infraestructures-inventari-semafors",
+            "url_tornada":{  
+               "ca":"http://ajuntament.barcelona.cat/ecologiaurbana/ca/qui-som/arees/infraestructures-i-mobilitat",
+               "en":"http://ajuntament.barcelona.cat/ecologiaurbana/en/about-us/areas/infrastructure-and-mobility",
+               "es":"http://ajuntament.barcelona.cat/ecologiaurbana/es/quienes-somos/areas/infraestructuras-y-movilidad"
+            },
+            "dataset_fields_description":"",
+            "fuente":"Ajuntament de Barcelona",
+            "private":false,
+            "num_tags":3,
+            "api":"No",
+            "frequency":"SETMANAL",
+            "update_string":"OPD_006 (Info execuci\u00f3 - Dia: dimarts / Hora: 04:00)",
+            "id":"802c9d1b-11d5-4f74-a319-0fcf23b96d56",
+            "title_translated":{  
+               "ca":"Inventari dels elements de regulaci\u00f3 semaf\u00f2rica de la xarxa d'infraestructures de la ciutat de Barcelona",
+               "en":"Inventory of the traffic light regulation elements in the infrastructure network of the city of Barcelona",
+               "es":"Inventario de los elementos de la regulaci\u00f3n semaf\u00f3rica de la red de infraestructuras de la ciudad de Barcelona"
+            },
+            "metadata_modified":"2018-10-10T03:35:12.947995",
+            "author":"Ecologia, Urbanisme i Mobilitat",
+            "author_email":null,
+            "isopen":true,
+            "state":"active",
+            "version":"",
+            "observations":"",
+            "relationships_as_object":[  
+
+            ],
+            "department":"Ger\u00e8ncia adjunta de Mobilitat i Infraestructures",
+            "creator_user_id":"f4b16b79-1c06-43ee-a5e9-b3df1316fcad",
+            "type":"dataset",
+            "resources":[  
+               {  
+                  "cache_last_updated":null,
+                  "package_id":"802c9d1b-11d5-4f74-a319-0fcf23b96d56",
+                  "datastore_active":true,
+                  "id":"20bd3dd1-efb0-490e-acd1-c7d0be170419",
+                  "size":null,
+                  "state":"active",
+                  "api_access_number":"6",
+                  "api_access_number_absolute":"6",
+                  "hash":"",
+                  "description":"",
+                  "format":"CSV",
+                  "downloads":"2",
+                  "mimetype_inner":null,
+                  "url_type":null,
+                  "column_types":"",
+                  "file_volum":"big",
+                  "mimetype":null,
+                  "cache_url":null,
+                  "name":"Infraestructures_Inventari_Semafors.csv",
+                  "created":"2018-09-27T12:46:03.439805",
+                  "url":"http://opendata-ajuntament.barcelona.cat/resources/bcn/Infraestructures_Inventari_Semafors.csv",
+                  "downloads_absolute":"3",
+                  "map_visualization_res":"data_explorer_map",
+                  "qa":"{'updated': '2018-10-13T02:06:23.411812', 'openness_score': 3, 'archival_timestamp': None, 'format': u'CSV', 'created': '2018-09-28T02:06:10.326587', 'resource_timestamp': None, 'openness_score_reason': u'This file had not been downloaded at the time of scoring it. URL extension \"csv\" relates to format \"CSV\" and receives score: 3.'}",
+                  "last_modified":null,
+                  "position":0,
+                  "revision_id":"3be73dea-47ba-47d6-9268-509fdcf93e01",
+                  "resource_type":null
+               }
+            ],
+            "num_resources":1,
+            "tags":[  
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Infraestructura",
+                  "id":"6f84e6e3-71ae-4f95-9a9e-5575525eb7a6",
+                  "name":"Infraestructura"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Mobilitat",
+                  "id":"f0f396fb-312b-43e0-991c-0d99f49dbfcd",
+                  "name":"Mobilitat"
+               },
+               {  
+                  "vocabulary_id":null,
+                  "state":"active",
+                  "display_name":"Sem\u00e0for",
+                  "id":"d3f71fd9-535e-4300-b02a-190aa16e03ce",
+                  "name":"Sem\u00e0for"
+               }
+            ],
+            "fecha_publicacion":"2018-10-05",
+            "load_type":"link_intern_desde_font_interna",
+            "groups":[  
+
+            ],
+            "license_id":"CC-BY-4.0",
+            "relationships_as_subject":[  
+
+            ],
+            "license_title":"Creative Commons Attribution 4.0",
+            "organization":{  
+               "code":"urbanisme-i-infraestructures",
+               "display_name":"Urbanisme i infraestructures",
+               "description":"Town planning and Infrastructures",
+               "parent":{  
+                  "code":"territori",
+                  "display_name":"Territori",
+                  "description":"Territory",
+                  "created":"2017-01-24T16:55:06.680852",
+                  "package_count":0,
+                  "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon2-territori",
+                  "description_translated":{  
+                     "ca":"Territori",
+                     "en":"Territory",
+                     "es":"Territorio"
+                  },
+                  "name":"territori",
+                  "is_organization":true,
+                  "state":"active",
+                  "image_url":"bcn-icon2-territori",
+                  "groups":[  
+
+                  ],
+                  "type":"organization",
+                  "title":"Territory",
+                  "revision_id":"948d611b-5bfd-4878-a817-3bbdd28bae22",
+                  "title_translated":{  
+                     "ca":"Territori",
+                     "en":"Territory",
+                     "es":"Territorio"
+                  },
+                  "num_followers":0,
+                  "id":"fdb223be-3adc-4145-be97-980bcfbdaa3b",
+                  "approval_status":"approved"
+               },
+               "created":"2017-01-24T16:55:07.057488",
+               "package_count":54,
+               "image_display_url":"http://opendata-ajuntament.barcelona.cat/data/uploads/group/bcn-icon-urbanisme",
+               "tematica_nti":"urbanismo-infraestructuras",
+               "description_translated":{  
+                  "ca":"Urbanisme i infraestructures",
+                  "en":"Town planning and Infrastructures",
+                  "es":"Urbanismo e infraestructuras"
+               },
+               "name":"urbanisme-i-infraestructures",
+               "is_organization":true,
+               "state":"active",
+               "image_url":"bcn-icon-urbanisme",
+               "groups":[  
+                  {  
+                     "capacity":"public",
+                     "name":"territori"
+                  }
+               ],
+               "type":"organization",
+               "title":"Town planning and Infrastructures",
+               "revision_id":"da18f861-8b29-45f5-88eb-ca5449896b24",
+               "title_translated":{  
+                  "ca":"Urbanisme i infraestructures",
+                  "en":"Town planning and Infrastructures",
+                  "es":"Urbanismo e infraestructuras"
+               },
+               "num_followers":0,
+               "id":"9bf18787-464c-4355-b19e-697055626c77",
+               "approval_status":"approved"
+            },
+            "name":"infraestructures-inventari-semafors",
+            "url":null,
+            "notes":"Inventory of the traffic light regulation elements in the infrastructure network of the city of Barcelona. The elements without neighbourhood and district information belong to bordering ubications of the city.",
+            "owner_org":"9bf18787-464c-4355-b19e-697055626c77",
+            "tag":"Infraestructura,Sem\u00e0for,Mobilitat",
+            "license_url":"https://creativecommons.org/licenses/by/4.0/",
+            "historical":"No",
+            "title":"Inventory of the traffic light regulation elements in the infrastructure network of the city of Barcelona",
+            "revision_id":"2c2d4207-b7ec-49aa-b674-48c8a72445ce",
+            "date_deactivation_informed":"No",
+            "extras":[  
+               {  
+                  "key":"01.ID_Semafor",
+                  "value":"Codi identificador de l'element de regulaci\u00f3 semaf\u00f2rica"
+               },
+               {  
+                  "key":"02.Codi_Semafor",
+                  "value":"Codi de la tipologia de l'element de regulaci\u00f3 semaf\u00f2rica. Veure relaci\u00f3 a __[Tipologia dels elements de regulaci\u00f3 semaf\u00f3rica de la xarxa d'infraestructures de la ciutat de Barcelona](http://opendata-ajuntament.barcelona.cat/data/ca/dataset/infraestructures-tipologia-semafors)__"
+               },
+               {  
+                  "key":"03.Codi_Districte",
+                  "value":"Codi del districte de la ubicaci\u00f3 de l'element de regulaci\u00f3 semaf\u00f2rica"
+               },
+               {  
+                  "key":"04.Nom_Districte",
+                  "value":"Nom del districte de la ubicaci\u00f3 de l'element de regulaci\u00f3 semaf\u00f2rica "
+               },
+               {  
+                  "key":"05.Codi_Barri",
+                  "value":"Codi del barri de la ubicaci\u00f3 de l'element de regulaci\u00f3 semaf\u00f2rica"
+               },
+               {  
+                  "key":"06.Nom_Barri",
+                  "value":"Nom del barri de la ubicaci\u00f3 de l'element de regulaci\u00f3 semaf\u00f2rica"
+               },
+               {  
+                  "key":"07.Longitud",
+                  "value":"Coordenada geogr\u00e0fica de longitud"
+               },
+               {  
+                  "key":"08.Latitud",
+                  "value":"Coordenada geogr\u00e0fica de latitud"
+               },
+               {  
+                  "key":"09.X_ETRS89",
+                  "value":"Coordenada X en ETRS89"
+               },
+               {  
+                  "key":"10.Y_ETRS89",
+                  "value":"Coordenada Y en ETRS89"
+               },
+               {  
+                  "key":"11.Data_Alta",
+                  "value":"Data d'alta de l'element de regulaci\u00f3 semaf\u00f2rica"
+               },
+               {  
+                  "key":"12.Data_Baixa",
+                  "value":"Data de baixa de l'element de regulaci\u00f3 semaf\u00f2rica"
+               }
+            ]
+         }
+      ],
+      "search_facets":{  
+
+      }
+   }
+}

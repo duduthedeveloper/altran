@@ -1,0 +1,31 @@
+=== */ajuntament_server_error*
+
+Returns the current configuration
+
+==== *5xx-SERVER-ERROR*
+
+****
+*Curl command*
+include::{snippets}/ajuntament_server_error/curl-request.adoc[]
+****
+
+****
+*Http request:*
+include::{snippets}/ajuntament_server_error/http-request.adoc[]
+****
+
+****
+*Http response:*
+include::{snippets}/ajuntament_server_error/http-response.adoc[]
+****
+
+
+****
+*Request body:*
+include::{snippets}/ajuntament_server_error/request-body.adoc[]
+****
+
+****
+*Response body:*
+include::{snippets}/ajuntament_server_error/response-body.adoc[]
+****

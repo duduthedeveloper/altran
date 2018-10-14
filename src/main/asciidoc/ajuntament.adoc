@@ -1,0 +1,31 @@
+=== */ajuntament*
+
+Returns the current configuration
+
+==== *200-Success*
+
+****
+*Curl command*
+include::{snippets}/ajuntament/curl-request.adoc[]
+****
+
+****
+*Http request:*
+include::{snippets}/ajuntament/http-request.adoc[]
+****
+
+****
+*Http response:*
+include::{snippets}/ajuntament/http-response.adoc[]
+****
+
+
+****
+*Request body:*
+include::{snippets}/ajuntament/request-body.adoc[]
+****
+
+****
+*Response body:*
+include::{snippets}/ajuntament/response-body.adoc[]
+****

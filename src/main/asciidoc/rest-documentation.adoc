@@ -1,0 +1,12 @@
+:toc2:
+:toclevels: 4
+:toc-title: Table of Contents
+:experimental:
+:mdash: —
+:language: asciidoc
+
+== *Resources*
+
+include::ajuntament.adoc[]
+include::ajuntament_client_error.adoc[]
+include::ajuntament_server_error.adoc[]
