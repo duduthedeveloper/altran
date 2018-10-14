@@ -5,6 +5,10 @@ IMPORTANT
 
 You need to have docker, java 8 and maven installed in order to run the service
 
+** I did not get the point about adding the URI to the response back. Not sure if HATEOAS was required or not(if it was, there was missing information to be HATEAOS), so I prefer not adding anything besides the status code and the organization description.
+
+** The status code is part of the HTTP, not the response body. I wrapped the status coming from the external client.
+
 TO INSTALL (generating REST API, running tests and creating docker image) -
 mvn clean package docker:build
 
