@@ -5,7 +5,7 @@ IMPORTANT
 
 You need to have docker, java 8 and maven installed in order to run the service
 
-TO INSTALL
+TO INSTALL (generating REST API, running tests and creating docker image) -
 mvn clean package docker:build
 
 TO RUN
