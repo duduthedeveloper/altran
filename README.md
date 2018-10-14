@@ -14,6 +14,8 @@ sudo docker run -p 8081:8081 altran
 
 sudo* command if the OS itself requires being a root user
 
+THE URI to access the service is /ajuntament/search?v=1
+
 ARCHITECTURE EXPLANATION
 
 1. I have organized the code as hexagonal (ddd) architecure - following naming convention for the layers, by implementing port/adapter
@@ -24,5 +26,5 @@ ARCHITECTURE EXPLANATION
 6. I decided to generate API documentation directly from the code, in order to the client check what are
 the possible server errors and besides that check the query parameters possible to input as filter to the
 external call
-
+7. the v=1 represents the API version
 
